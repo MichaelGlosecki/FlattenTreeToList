@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07e62093-d54f-4c41-b5d7-8fba6016b44e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,12 +17,8 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#513#514#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="289">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -169,12 +165,12 @@
       <workItem from="1526443348612" duration="60000" />
       <workItem from="1526513190649" duration="599000" />
       <workItem from="1526521356757" duration="5000" />
-      <workItem from="1526874910716" duration="316000" />
+      <workItem from="1526874910716" duration="781000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4502000" />
+    <option name="totallyTimeSpent" value="4967000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -226,10 +222,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -237,10 +229,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -248,10 +236,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -259,21 +243,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-          <folding>
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="289">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
