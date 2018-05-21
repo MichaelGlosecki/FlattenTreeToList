@@ -15,7 +15,6 @@ public class Solution {
 
     public void flatten(TreeNode root) {
         subTreeFlatten(root);
-        //edit
     }
 
     private TreeNode subTreeFlatten(TreeNode root) {
